@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ipsosui/static/css/main.e6c13ad2.css",
+    "main.js": "/Ipsosui/static/js/main.669fbe7f.js",
+    "static/js/453.513f9105.chunk.js": "/Ipsosui/static/js/453.513f9105.chunk.js",
+    "index.html": "/Ipsosui/index.html",
+    "main.e6c13ad2.css.map": "/Ipsosui/static/css/main.e6c13ad2.css.map",
+    "main.669fbe7f.js.map": "/Ipsosui/static/js/main.669fbe7f.js.map",
+    "453.513f9105.chunk.js.map": "/Ipsosui/static/js/453.513f9105.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.669fbe7f.js"
+  ]
+}
